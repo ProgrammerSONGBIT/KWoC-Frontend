@@ -21,17 +21,17 @@ function ProjectForm(props: { isEditing?: boolean }) {
   const [loading, setLoading] = useState<boolean>(false);
 
   useEffect(() => {
-    if (!isEditing && !MENTOR_REG_OPEN) {
-      navigate("/");
-    }
+    // if (!isEditing && !MENTOR_REG_OPEN) {
+    //   navigate("/");
+    // }
 
-    if (!authContext.isAuthenticated) {
-      navigate("/");
-    } else if (!authContext.isRegistered) {
-      navigate(authContext.formLink);
-    } else if (authContext.userData.type !== "mentor") {
-      navigate(authContext.dashboardLink);
-    }
+    // if (!authContext.isAuthenticated) {
+    //   navigate("/");
+    // } else if (!authContext.isRegistered) {
+    //   navigate(authContext.formLink);
+    // } else if (authContext.userData.type !== "mentor") {
+    //   navigate(authContext.dashboardLink);
+    // }
   });
 
   useEffect(() => {
