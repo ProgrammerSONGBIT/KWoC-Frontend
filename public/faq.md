@@ -16,7 +16,7 @@
 
 - What is the purpose of this program? Is this some kind of internship?
 
-  **No**, KWoC is a program which aims at helping participants learn how to contribute in the open-source world. This activity prepares you for various open source opportunities such as [Google Summer of Code](https://summerofcode.withgoogle.com/archive/), [Rail Girl's Summer of Code and Outreachy](https://railsgirlssummerofcode.org).
+  **No**, KWoC is a program which aims at helping participants learn how to contribute in the open-source world. This activity prepares you for various open source opportunities such as [Google Summer of Code](https://summerofcode.withgoogle.com/archive/), [Rails Girls Summer of Code and Outreachy](https://railsgirlssummerofcode.org).
 
 - Can I participate in KWoC as both a mentor and a student?
 
@@ -52,7 +52,7 @@
 
 - Can I apply if I am not a student of IIT Kharagpur?
 
-  Sure! Our program is open to **all** students irrespective of college! Is there. Read [this](https://www.quora.com/What-is-the-prerequisite-for-participating-in-Kharagpur-Winter-of-Code-2016) Quora answer by Pranit Bauva.
+  Sure! Our program is open to **all** students irrespective of college! Read [this](https://www.quora.com/What-is-the-prerequisite-for-participating-in-Kharagpur-Winter-of-Code-2016) Quora answer by Pranit Bauva.
 
 - Can you provide me any advice so that I can start preparing for it beforehand?
 
